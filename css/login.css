@@ -1,0 +1,24 @@
+h2 {
+  color: red;
+}
+
+.fullscreen-section{
+  width:100%;
+  height:100%;
+}
+
+
+
+.login-container{
+  color:white;
+  border:2px solid white;
+  display:flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  padding:10px;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibG9naW4uY3NzIiwic291cmNlcyI6WyJsb2dpbi5zY3NzIl0sInNvdXJjZXNDb250ZW50IjpbImgye1xuICBjb2xvcjpyZWQ7XG59XG4iXSwibWFwcGluZ3MiOiJBQUFBLEFBQUEsRUFBRSxDQUFBO0VBQ0EsS0FBSyxFQUFDLEdBQUksR0FDWCIsIm5hbWVzIjpbXSwic291cmNlUm9vdCI6Ii9zb3VyY2UvIn0= */
