@@ -46,6 +46,7 @@ registration = false;
     var userInfo:UserObject = this.registerObject;
     this.loginService.registerUser(userInfo)
       .subscribe(
+      response => this.response ,
       error =>  this.errorMessage = <any>error)
   }
 
